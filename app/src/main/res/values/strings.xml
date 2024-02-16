@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="usaUSD">USD</string>
+    <string name="switzerlandCHF">CHF</string>
+    <string name="koreaKRW">KRW</string>
+
+    <string name="africa">South African\nrand</string>
+    <string name="russian">Russian\nrub</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+    <string name="usa">American\ndollar</string>
+    <string name="switzerland">Swiss\nfranc</string>
+    <string name="korea">South Korean\nwon</string>
+    
+    <string name="flag">flag</string>
+</resources>
