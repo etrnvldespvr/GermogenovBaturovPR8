@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         list.add(new DataFlags(R.drawable.flag_africa, R.string.africa, R.string.africaZAR));
         list.add(new DataFlags(R.drawable.flag_singapore, R.string.singapore, R.string.singaporeSGD));
         list.add(new DataFlags(R.drawable.flag_turkish, R.string.turkish, R.string.turkishTRY));
-        list.add(new DataFlags(R.drawable.flag_usa, R.string.usa, R.string.usaUSD));g
+        list.add(new DataFlags(R.drawable.flag_usa, R.string.usa, R.string.usaUSD));
         list.add(new DataFlags(R.drawable.flag_switzerland, R.string.switzerland, R.string.switzerlandCHF));
         list.add(new DataFlags(R.drawable.flag_korea, R.string.korea, R.string.koreaKRW));
 
