@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GermogenDesignNEW</string>
+    <string name="coffee_first">Coffee so good,\nyour taste buds\nwill love it.</string>
+    <string name="coffee_second">The best grain, the finest roast, the\npowerful flavor.</string>
+    <string name="coffee_button">Get Started</string>
+</resources>
